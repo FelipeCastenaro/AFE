@@ -1,0 +1,12 @@
+h1 {
+    color: aqua(24, 106, 248);
+    background-color: aquamarine;
+}
+p {
+color: rgb(241, 3, 3);
+font-size: 24px;
+background-color: black(242, 208, 227);
+}
+#imagem {
+    height: 25%;
+}
